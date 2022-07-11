@@ -1,0 +1,2 @@
+Link para sintaxe: https://www.markdownguide.org/basic-syntax/
+Link para dowloand ao Git: https://git-scm.com/downloads
